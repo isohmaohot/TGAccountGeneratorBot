@@ -24,7 +24,7 @@ CHANNEL_NAME: Username of channel, you want people to join before using bot.
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/leeveshkamboj/TGAccountGeneratorBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isohmaohot/TGAccountGeneratorBot/)
 
 
 # Example
