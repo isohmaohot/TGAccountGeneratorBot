@@ -14,7 +14,7 @@ class userlist(BASE):
         self.isBanned = isBanned
         self.dailylimit = dailylimit
 
-userlist.__table__.create(checkfirst=True)
+# userlist.__table__.create(checkfirst=True)
 
 
 def get_user(userId):
